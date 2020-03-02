@@ -1,4 +1,4 @@
-# Github Collaborators CLI
+# Github Collaborators CLI 🤖
 
 > A simple CLI made to easily manage your repository collaborators
 
