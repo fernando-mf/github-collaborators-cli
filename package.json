@@ -1,6 +1,6 @@
 {
   "name": "github-collaborators",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple CLI made to easily manage your repo collaborators",
   "keywords": [
     "github",
