@@ -17,6 +17,9 @@
     "email": "prelt65@gmail.com",
     "url": "https://github.com/fernando-mf/github-collaborators-cli/issues"
   },
+  "bin": {
+    "github-collaborators": "src/main.js"
+  },
   "main": "src/main.js",
   "author": {
     "name": "@fernando-mf",
