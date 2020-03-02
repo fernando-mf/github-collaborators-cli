@@ -7,11 +7,6 @@
     "collaborators",
     "cli"
   ],
-  "files": [
-    "src",
-    "node_modules",
-    "package.json"
-  ],
   "homepage": "https://github.com/fernando-mf/github-collaborators-cli",
   "bugs": {
     "email": "prelt65@gmail.com",
