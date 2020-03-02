@@ -2,9 +2,30 @@
   "name": "github-collaborators",
   "version": "1.0.0",
   "description": "A simple CLI made to easily manage your repo collaborators",
+  "keywords": [
+    "github",
+    "collaborators",
+    "cli"
+  ],
+  "homepage": "https://github.com/fernando-mf/github-collaborators-cli",
+  "bugs": {
+    "email": "prelt65@gmail.com",
+    "url": "https://github.com/fernando-mf/github-collaborators-cli/issues"
+  },
   "main": "src/main.js",
-  "author": "@fernando-mf",
+  "author": {
+    "name": "@fernando-mf",
+    "email": "prelt65@gmail.com"
+  },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernando-mf/github-collaborators-cli"
+  },
+  "scripts": {
+    "start": "node src/main.js",
+    "lint": "eslint 'src/**/*.js' --ignore-path ./.eslintignore"
+  },
   "dependencies": {
     "axios": "^0.19.2",
     "chalk": "^3.0.0",
@@ -12,10 +33,6 @@
     "dotenv": "^8.2.0",
     "ramda": "^0.27.0",
     "table": "^5.4.6"
-  },
-  "scripts": {
-    "start": "node src/main.js",
-    "lint": "eslint 'src/**/*.js' --ignore-path ./.eslintignore"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
