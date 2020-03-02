@@ -4,3 +4,5 @@ node_modules
 
 ~/.cache/yarn*
 yarn-error.log
+
+.env
