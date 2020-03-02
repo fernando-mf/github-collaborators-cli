@@ -1,5 +1,8 @@
 # Github Collaborators CLI 🤖
 
+<span class="badge-ci"><img src="https://github.com/fernando-mf/github-collaborators-cli/workflows/Github%20Collaborators%20CLI%20-%20CI/badge.svg" alt="github-collaborators-ci" /></span>
+<span class="badge-npmversion"><a href="https://npmjs.org/package/github-collaborators" title="View this project on NPM"><img src="https://img.shields.io/npm/v/github-collaborators.svg" alt="NPM version" /></a></span>
+
 > A simple CLI made to easily manage your repository collaborators
 
 ## Installation
