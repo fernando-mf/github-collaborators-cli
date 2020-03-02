@@ -1,4 +1,9 @@
-require('dotenv').config();
+const path = require('path');
+const homeDir = require('os').homedir();
+
+require('dotenv').config({
+  path: path.join(homeDir, '.github-collaborators'),
+});
 
 const commander = require('commander');
 const chalk = require('chalk');
